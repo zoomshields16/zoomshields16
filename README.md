@@ -25,3 +25,7 @@ I mostly build backend services and data pipelines in **Python** and **Java**. L
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zoomshields@gmail.com)
 
 <sub>🌊 When I'm not coding, you'll usually find me out on the water.</sub>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohjV6gVxjKcrJyFck/giphy-downsized.gif" width="250" alt="Pixel-art surfer riding a wave" />
+</p>
