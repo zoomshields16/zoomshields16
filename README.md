@@ -18,6 +18,7 @@ I mostly build backend services and data pipelines in **Python** and **Java**. L
 - **[fintech-project](https://github.com/zoomshields16/fintech-project)**: DCF valuation tool that rebuilds companies' financial statements from raw vendor data and checks its own math against the filed totals (97% pass rate across 12,538 automated checks). Python, FastAPI, Postgres.
 - **[sf-BEACON](https://github.com/zoomshields16/sf-BEACON)**: Built at HackUTD 2026. AI agents find everyone inside a live National Weather Service alert, call them, triage how urgent their situation is, and send only life-or-death cases on for 911 review. TypeScript, NVIDIA Nemotron, LiveKit.
 - **[hn-signal](https://github.com/zoomshields16/hn-signal)**: ELT pipeline over the Hacker News API that tests whether a story's first hour predicts if it reaches 100 points. Python, dbt, Postgres.
+
 **Get in touch**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoom-shields/)
